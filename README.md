@@ -31,7 +31,7 @@ The Currency Converter App is a modern, responsive web application built with Re
 
 2. Navigate to the project directory and install dependencies:
 ```bash
-   cd Currency-converter-App
+   cd Currency-Converter-App
    npm install
 ```
 
