@@ -12,7 +12,7 @@ The Currency Converter App is a modern, responsive web application built with Re
 - **Custom Input:** Users can enter any amount they wish to convert, and the app will instantly display the equivalent value in the target currency.
 - **Responsive Design:** The application is fully responsive, ensuring a seamless user experience on all devices, including desktops, tablets, and mobile phones.
 - **Favorite Currency Pairs:** Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
-- **Favorite Currency Pairs: Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
+- **Favorite Currency Pairs:** Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
 - **Offline Mode:** Implement an offline mode that allows users to use the most recent cached exchange rates when the internet connection is unavailable.
 
 ### Technologies Used:
