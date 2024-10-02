@@ -49,4 +49,4 @@ The Currency Converter App is a modern, responsive web application built with Re
 3. Swap Currencies: With a single click, users can swap the selected base and target currencies, making conversions faster and more convenient.
 4. Real-Time Conversion: The app retrieves live exchange rates from the API and performs instant calculations, ensuring the results reflect the most accurate conversion rates
 
-Contributions to improve the app, whether through feature additions, performance optimizations, or UI enhancements, are encouraged. Feel free to fork the repository, create a new branch with your changes, and submit a pull request. Feedback and suggestions can also be shared via the email ** business@jasim.io **, where discussions for potential improvements are welcomed.
+Contributions to improve the app, whether through feature additions, performance optimizations, or UI enhancements, are encouraged. Feel free to fork the repository, create a new branch with your changes, and submit a pull request. Feedback and suggestions can also be shared via the email (business@jasim.io), where discussions for potential improvements are welcomed.
