@@ -1,7 +1,8 @@
 ## Currency Converter App Using (React Js)
 
-## About this app
+Check out the app at: [https://currency-converter-app.jasim.io/]
 
+## About this app
 The Currency Converter App is a modern, responsive web application built with React JS, styled with Tailwind CSS, and optimized using Vite. This app allows users to convert between multiple currencies accurately and quickly. Designed with simplicity and efficiency in mind, the app offers real-time currency conversion with options for swapping between currencies and selecting from a wide range of available currency pairs. Whether you’re a frequent traveler or someone who needs to handle international transactions, this app provides an easy and effective way to manage currency conversions.
 
 ## Key Features
@@ -10,9 +11,9 @@ The Currency Converter App is a modern, responsive web application built with Re
 - **Swap Functionality:** Users can quickly swap the base and target currencies with a single click, making it convenient to reverse conversions.
 - **Custom Input:** Users can enter any amount they wish to convert, and the app will instantly display the equivalent value in the target currency.
 - **Responsive Design:** The application is fully responsive, ensuring a seamless user experience on all devices, including desktops, tablets, and mobile phones.
-- Favorite Currency Pairs: Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
-- Favorite Currency Pairs: Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
-- Offline Mode: Implement an offline mode that allows users to use the most recent cached exchange rates when the internet connection is unavailable.
+- **Favorite Currency Pairs:** Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
+- **Favorite Currency Pairs: Enable users to save frequently used currency pairs for faster access and easier conversion in future sessions.
+- **Offline Mode:** Implement an offline mode that allows users to use the most recent cached exchange rates when the internet connection is unavailable.
 
 ### Technologies Used:
 
